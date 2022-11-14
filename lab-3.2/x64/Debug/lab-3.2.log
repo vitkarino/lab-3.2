@@ -1,0 +1,10 @@
+﻿  main.c
+D:\University\Informatics\lab-3.2\lab-3.2\main.c(52,25): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+D:\University\Informatics\lab-3.2\lab-3.2\main.c(59,23): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+D:\University\Informatics\lab-3.2\lab-3.2\main.c(68,21): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+D:\University\Informatics\lab-3.2\lab-3.2\main.c(75,19): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+D:\University\Informatics\lab-3.2\lab-3.2\main.c(119,17): warning C4033: 'bisectionMethod' must return a value
+D:\University\Informatics\lab-3.2\lab-3.2\main.c(161,17): warning C4033: 'secantMethod' must return a value
+D:\University\Informatics\lab-3.2\lab-3.2\main.c(127): warning C4715: 'bisectionMethod': not all control paths return a value
+D:\University\Informatics\lab-3.2\lab-3.2\main.c(169): warning C4715: 'secantMethod': not all control paths return a value
+  lab-3.2.vcxproj -> D:\University\Informatics\lab-3.2\x64\Debug\lab-3.2.exe
