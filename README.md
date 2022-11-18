@@ -3,4 +3,4 @@
 
 ## Блок-схема до програми
 
-![Alt text](/main.png?raw=true "Optional Title")
+![Alt text](/mainBlock.png?raw=true "Optional Title")
