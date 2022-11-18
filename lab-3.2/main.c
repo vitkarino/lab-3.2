@@ -127,7 +127,7 @@ double bisectionMethod(double a, double b, double c, double e, double f(double x
                 scanf_s("%d", &doNext);
 
                 if (doNext == 1) {
-                    steps = iter + 5;
+                    steps += iter;
                 }
 
                 else if (doNext == 2) {
@@ -197,7 +197,7 @@ double secantMethod(double a, double b, double c, double e, double f(double x), 
                 scanf_s("%d", &doNext);
 
                 if (doNext == 1) {
-                    steps = iter + 5;
+                    steps += iter;
                 }
 
                 else if (doNext == 2) {
