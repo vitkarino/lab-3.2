@@ -3,4 +3,8 @@
 
 ## Блок-схема до основної програми
 
-![Alt text](/mainBlock.png?raw=true "Optional Title")
+![Alt text](/mainFunctionBlock.png?raw=true "Optional Title")
+
+## Блок-схема до методу половинного ділення
+
+![Alt text](/bisectionMethodBlock.png?raw=true "Optional Title")
